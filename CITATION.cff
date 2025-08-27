@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: "Pre-registered Ger–26 test plan for 3I/ATLAS (C/2025 N1)"
+message: "If you use this work, please cite the Zenodo record."
+type: software
+authors:
+  - family-names: Goldschmidt
+    given-names: Natalya
+    affiliation: Ger-26 Scientific Initiative
+  - family-names: Ger
+    given-names: Yelena
+    affiliation: Ger-26 Scientific Initiative
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.16945756
+repository-code: "https://github.com/<YOUR_GH_USERNAME>/ger26-atlas-prereg"
+license: MIT
+abstract: >
+  Preregistered, falsifiable test plan for interstellar comet 3I/ATLAS (C/2025 N1),
+  using the Ger-26 framework and GGCE. Four tests: orbit harmonics, light-curve
+  microstructure, isotopic clustering, polarimetric texture. Code in 10 days.
