@@ -1,6 +1,6 @@
 # Pre-registered Ger-26 test plan for 3I/ATLAS (C/2025 N1)
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<YOUR_GH_USERNAME>/ger26-atlas-prereg/blob/main/notebooks/atlas_prereg_stub.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<Lumina26>/ger26-atlas-prereg/blob/main/notebooks/atlas_prereg_stub.ipynb)
 
 This repository hosts the public materials for the preregistered, falsifiable test plan for interstellar comet 3I/ATLAS (C/2025 N1), based on the Ger-26 framework and the Ger–Goldschmidt Core Equation (GGCE).
 
